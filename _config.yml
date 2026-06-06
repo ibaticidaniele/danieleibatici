@@ -1,0 +1,14 @@
+title: "Daniele Ibatici — Blog"
+description: "Advertising su Google Ads, Meta, LinkedIn e Bing, lead generation e marketing full-funnel: strategie e casi pratici."
+url: "https://www.danieleibatici.it"
+baseurl: ""
+author: "Daniele Ibatici"
+lang: it
+permalink: /blog/:title/
+
+plugins:
+  - jekyll-seo-tag
+
+# Non processare i file già statici del sito
+exclude:
+  - README.md

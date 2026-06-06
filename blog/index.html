@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Blog"
+description: "Articoli su advertising, Google Ads, Meta, LinkedIn, lead generation e marketing full-funnel."
+permalink: /blog/
+---
+<div class="post">
+  <h1>Blog</h1>
+  <p class="lead">Strategie pratiche e lezioni dai 12 anni in cui gestisco campagne advertising per e-commerce e lead generation.</p>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+        <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+        {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
