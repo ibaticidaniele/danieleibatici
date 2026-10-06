@@ -29,4 +29,4 @@ Molte aziende del territorio investono in Google Ads o Meta Ads senza aver prima
 
 ## Come iniziare
 
-Se stai valutando un nuovo sito per la tua azienda a Reggio Emilia, Parma o Modena, il primo passo non è scegliere i colori o il template: è chiarire cosa il sito deve farti ottenere. Da lì si costruisce tutto il resto — design, contenuti, e se serve, le campagne per portarci le persone giuste.
+Se stai valutando un nuovo sito per la tua azienda a Reggio Emilia, Parma o Modena, il primo passo non è scegliere i colori o il template: è chiarire cosa il sito deve farti ottenere. Da lì si costruisce tutto il resto — design, contenuti, e se serve, le campagne per portarci le persone giuste. Se la tua è un'attività artigiana o una piccola impresa, [ho scritto una guida su cosa serve davvero (e cosa no)]({% post_url 2026-10-06-sito-web-per-artigiani-reggio-emilia-parma-modena %}).
