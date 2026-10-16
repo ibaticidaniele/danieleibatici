@@ -33,7 +33,7 @@ Parliamo di lavoro paziente, non di scorciatoie: i primi risultati sulle ricerch
 
 ## Quando affiancare l'advertising
 
-Se non puoi aspettare i tempi della SEO, una piccola campagna Google Ads sulle ricerche locali ("falegname Reggio Emilia", "impianti elettrici Modena") porta richieste da subito, con un budget che si decide e si controlla. Ma attenzione: la campagna manda le persone sul sito, quindi se il sito è lento o confuso stai pagando per far scappare i visitatori. Per questo [sito e campagne vanno pensati insieme]({% post_url 2026-06-06-perche-le-campagne-non-convertono %}).
+Se non puoi aspettare i tempi della SEO, una piccola campagna Google Ads sulle ricerche locali ("falegname Reggio Emilia", "impianti elettrici Modena") porta richieste da subito, con un budget che si decide e si controlla ([qui spiego quanto costa davvero e come calcolarlo]({% post_url 2026-10-16-quanto-costa-google-ads-piccola-azienda %})). Ma attenzione: la campagna manda le persone sul sito, quindi se il sito è lento o confuso stai pagando per far scappare i visitatori. Per questo [sito e campagne vanno pensati insieme]({% post_url 2026-06-06-perche-le-campagne-non-convertono %}).
 
 ## Gli errori più comuni
 
