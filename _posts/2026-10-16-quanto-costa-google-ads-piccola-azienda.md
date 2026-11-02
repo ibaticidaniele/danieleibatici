@@ -50,7 +50,7 @@ Spesso, quando "Google Ads non funziona", è il resto del percorso che perde per
 
 ## Google Ads o SEO?
 
-Sono strumenti diversi. La SEO costruisce visibilità che dura nel tempo ma richiede settimane o mesi; Google Ads porta richieste da subito, finché c'è budget. Per un'attività locale non sono alternative: molte partono con la pubblicità per avere contatti subito e intanto costruiscono la presenza organica, ad esempio con un sito essenziale e curato come spiego [nella guida per artigiani e piccole imprese]({% post_url 2026-10-06-sito-web-per-artigiani-reggio-emilia-parma-modena %}).
+Sono strumenti diversi. La SEO costruisce visibilità che dura nel tempo ma richiede settimane o mesi; Google Ads porta richieste da subito, finché c'è budget. E c'è anche l'advertising su Facebook e Instagram, che risponde a un bisogno diverso ancora ([qui spiego quando Meta conviene e quando no]({% post_url 2026-11-02-facebook-instagram-ads-aziende-locali %})). Per un'attività locale non sono alternative: molte partono con la pubblicità per avere contatti subito e intanto costruiscono la presenza organica, ad esempio con un sito essenziale e curato come spiego [nella guida per artigiani e piccole imprese]({% post_url 2026-10-06-sito-web-per-artigiani-reggio-emilia-parma-modena %}).
 
 ## Prima di spendere un euro
 

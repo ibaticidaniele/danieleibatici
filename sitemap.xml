@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.danieleibatici.it/blog/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -45,6 +45,12 @@
   <url>
     <loc>https://www.danieleibatici.it/blog/quanto-costa-google-ads-piccola-azienda/</loc>
     <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.danieleibatici.it/blog/facebook-instagram-ads-aziende-locali/</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
